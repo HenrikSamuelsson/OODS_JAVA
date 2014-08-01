@@ -7,6 +7,6 @@ This book teaches data structures with examples and exercies based on the Java p
 
 Book ISBN 978-1-4496-1354-9
 
-Google books [link](http://books.google.se/books?id=GEJ_Jp6mUpgC&dq=Object-Oriented+Data+Structures+Using+Java&source=gbs_navlinks_s)
+Google Books [link](http://books.google.se/books?id=GEJ_Jp6mUpgC&dq=Object-Oriented+Data+Structures+Using+Java&source=gbs_navlinks_s)
 
 
