@@ -3,7 +3,7 @@ OODS_JAVA
 
 My solutions to the exercises in the book "Object-Oriented Data Structures using Java".
 
-This book teaches data structures with examples and exercies based on the Java programming language. The exercise solution are based on the third edition of the book.
+This book teaches data structures with examples and exercies based on the Java programming language. The exercise solutions are based on the third edition of the book.
 
 Book ISBN: 978-1-4496-1354-9
 
